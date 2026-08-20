@@ -9,3 +9,4 @@ I built the website with a focus on a clean, modern, and interactive design — 
 This is just the beginning. More projects and improvements coming soon! 🔥
 
 #Portfolio #EngineeringStudent #TalTech #WebDevelopment #GitHub #StudentDeveloper #Engineering
+![Screenshot](Screenshot%202026-08-20%20205253.png)
